@@ -106,7 +106,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/example.com"
+                 "value":"https:\/\/hcksp0.de\/index.php?nr=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,7 +124,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/example.com"
+                 "value":"https:\/\/hcksp0.de\/index.php?nr=2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -142,7 +142,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/example.com"
+                 "value":"https:\/\/hcksp0.de\/index.php?nr=3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -160,7 +160,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/example.com"
+                 "value":"https:\/\/hcksp0.de\/index.php?nr=4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -178,7 +178,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/example.com"
+                 "value":"https:\/\/hcksp0.de\/index.php?nr=5"
                 }],
          "type":"tilelayer",
          "visible":true,
